@@ -3,7 +3,7 @@ this is my git welcome to git
 class HelloGit{
 
 	void showDate(){
-	sysout("date show");
+	sysout("date show")
 }
 	public static void main(String[] args){
 
