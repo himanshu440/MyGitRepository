@@ -1,12 +1,13 @@
 this is my git welcome to git 
 
 class HelloGit{
-
-	void showDate(){
-	sysout("date show");
+		void helloGit(){
+		sysout("hello git  welcome");
+}
+	
 }
 	public static void main(String[] args){
 
-		systemo.out.println("Hello git..!!!")
+		system.out.println("Hello git..!!!");
 }
 }
