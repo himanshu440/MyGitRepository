@@ -11,4 +11,8 @@ class HelloGit{
 		obj.helloGit();		
 		system.out.println("Hello git..!!!");
 }
+
+		void myBigMethod(){
+	sysouy("has a mathod");
+}
 }
